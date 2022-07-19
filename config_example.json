@@ -6,18 +6,18 @@
     "servername": "127.0.0.1",
     "DATABASE": "yapi",
     "port": 27017,
-    "user": "test1",
-    "pass": "test1",
+    "user": "admin",
+    "pass": "123456",
     "authSource": ""
   },
   "mail": {
     "enable": true,
     "host": "smtp.163.com",
     "port": 465,
-    "from": "***@163.com",
+    "from": "17744429089@163.com",
     "auth": {
-      "user": "***@163.com",
-      "pass": "*****"
+      "user": "17744429089@163.com",
+      "pass": "17744429089"
     }
   }
 }
